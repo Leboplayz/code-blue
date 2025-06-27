@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Terms of Service – Code Blue</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 2rem;
+      background-color: #f4f6fa;
+      color: #333;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #003566;
+    }
+    a {
+      color: #0077cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      background: #fff;
+      padding: 2rem;
+      box-shadow: 0 0 20px rgba(0,0,0,0.05);
+      border-radius: 10px;
+    }
+    footer {
+      text-align: center;
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Terms of Service for Code Blue</h1>
+    <p><strong>Last Updated:</strong> June 27, 2025</p>
+
+    <p>Welcome to <strong>Code Blue</strong>, a Discord bot designed to enhance your server experience. These Terms of Service ("Terms") govern your access to and use of the Code Blue bot ("Bot", "Service"). By using or inviting Code Blue, you agree to these Terms. If you do not agree, please do not use the Bot.</p>
+
+    <h2>1. Usage Guidelines</h2>
+    <ul>
+      <li>Comply with <a href="https://discord.com/terms" target="_blank">Discord’s Terms of Service</a> and <a href="https://discord.com/guidelines" target="_blank">Community Guidelines</a>.</li>
+      <li>Only use Code Blue in servers where you have authorization.</li>
+      <li>Do not exploit, harm, or misuse the Bot.</li>
+      <li>Do not use the Bot for illegal, malicious, or disruptive activity (e.g., spam, hate speech).</li>
+      <li>Do not reverse-engineer, decompile, or tamper with the Bot.</li>
+    </ul>
+
+    <h2>2. Data Collection & Privacy</h2>
+    <p>To operate effectively, Code Blue may collect and temporarily store:</p>
+    <ul>
+      <li>Discord User IDs</li>
+      <li>Guild (Server) IDs</li>
+      <li>Channel IDs</li>
+      <li>Message content (only for feature execution)</li>
+      <li>Command usage logs</li>
+    </ul>
+    <p>All data is used solely for Bot functionality and is not sold or shared. Data can be removed on request. A full Privacy Policy may be published separately if required.</p>
+
+    <h2>3. Service Availability</h2>
+    <p>We aim for high uptime, but Code Blue is provided <strong>without any guarantee</strong> of availability or performance. We may:</p>
+    <ul>
+      <li>Add, change, or remove features at any time</li>
+      <li>Take the bot offline for updates or maintenance</li>
+      <li>Restrict access due to abuse or security concerns</li>
+    </ul>
+
+    <h2>4. Termination & Blacklisting</h2>
+    <p>You can remove Code Blue at any time. We may restrict access or blacklist users/servers for:</p>
+    <ul>
+      <li>Violating these Terms</li>
+      <li>Exploiting or abusing features</li>
+      <li>Creating a harmful or unsafe environment</li>
+    </ul>
+
+    <h2>5. Disclaimers</h2>
+    <p>Code Blue is provided <strong>"as is"</strong> with no warranties. We are not liable for:</p>
+    <ul>
+      <li>Data loss or corruption</li>
+      <li>Downtime or service interruptions</li>
+      <li>Misuse by users or server administrators</li>
+    </ul>
+
+    <h2>6. Changes to These Terms</h2>
+    <p>We may update these Terms at any time. Continued use of Code Blue indicates acceptance of the latest version. This page will always reflect the current Terms.</p>
+
+    <h2>7. Contact & Support</h2>
+    <p>If you have questions or need help, join our official support server:</p>
+    <p><a href="https://discord.gg/j73W6vcYck" target="_blank"><strong>https://discord.gg/j73W6vcYck</strong></a></p>
+
+    <footer>
+      &copy; 2025 Code Blue Bot. All rights reserved.
+    </footer>
+  </div>
+</body>
+</html>
